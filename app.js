@@ -63,7 +63,7 @@ console.log(arr)
 
 // Q7
 
-var Qualifications = ["QUALIFICATIONS </br>, SSC,</br>, HSC,</br>, BCS,</br>, BS,</br>, BCOM,</br>, MS,</br>, M. Phil.,</br>, PhD "] 
+var Qualifications = ["QUALIFICATIONS, </br> SSC, </br> HSC, </br> BCS, </br> BS,</br> BCOM, </br> MS,</br> M. Phil.,</br> PhD</br> "] 
 
 
 document.write(Qualifications)
