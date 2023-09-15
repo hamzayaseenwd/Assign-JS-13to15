@@ -161,11 +161,43 @@ document.write(name)
 
 
 
+var arr = ["This", "is", "my", "cat"];
+
+var a = arr.join (" ")
+var a2 = arr.join ()
+document.write("</br> String: </br>" , a, "</br>" )
+document.write("Array: </br>" , a2 , "</br>" ) 
+
+
+
+
+// Q13
 
 
 
 
 
+
+
+
+
+
+
+// Q14
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Q15
 
 
 
